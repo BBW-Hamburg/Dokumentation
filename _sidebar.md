@@ -1,1 +1,3 @@
-- [Erste Schritte](documentation/README.md)
+- Getting started
+
+  - [Quick Start](quickstart.md)
